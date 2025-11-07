@@ -1,0 +1,5 @@
+Cycle,Anodic_E_SCE(V),Anodic_I_SCE(A),Cathodic_E_SCE(V),Cathodic_I_SCE(A),Anodic_I_SCE(µA),Cathodic_I_SCE(µA),ΔE_p(V),i_ox/i_red,ΔI(µA),n_electron_estimated
+Cycle 1,0.487,0.0,0.349,-0.0,18.704,-9.186,0.138,2.036,27.89,0.426
+Cycle 2,0.492,0.0,0.351,-0.0,18.402,-9.174,0.141,2.006,27.576,0.419
+Cycle 3,0.49,0.0,0.354,-0.0,18.582,-9.793,0.136,1.897,28.375,0.434
+Average,0.49,,0.351,,18.563,-9.384,0.138,1.98,27.947,0.426
